@@ -42,7 +42,7 @@ This project implements a third-person 3D scene using [Three.js](https://threejs
 
 - **`models/`**: 3D models used in the scene.
 - **`assets/`**: Textures, audio files, and fonts.
-- **`scripts/`**: Main JavaScript files, including the character controller and camera logic.
+- **`main.js`**: Main JavaScript files, including the character controller and camera logic.
 
 ## 📚 Resources
 
