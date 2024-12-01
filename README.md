@@ -56,7 +56,6 @@ This project implements a third-person 3D scene using [Three.js](https://threejs
 
 - [Three.js](https://threejs.org/) (v0.118)
 - FBXLoader and GLTFLoader for loading 3D models.
-- A local web server (e.g., `http-server`).
 
 ## 🤝 Contributions
 
