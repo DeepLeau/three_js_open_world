@@ -32,7 +32,7 @@ This project implements a third-person 3D scene using [Three.js](https://threejs
 ## 🎮 Usage
 
 1. Use the following controls to interact with the scene:
-   - **W, A, S, D (or Z, Q, S, D)**: Move forward, left, backward, and right.
+   - **Z, Q, S, D**: Move forward, left, backward, and right.
    - **Shift**: Sprint.
    - **Spacebar**: Jump.
 2. Click on interactive objects (like the red cylinder) to change the skybox.
