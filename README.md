@@ -49,10 +49,11 @@ This project implements a third-person 3D scene using [Three.js](https://threejs
 - [Third-Person Camera Tutorial by OslavDev](https://oslavdev.medium.com/third-person-controller-in-three-js-b643bec50f92)
 - [Skybox Tutorial by YouTube - "Chris Courses"](https://www.youtube.com/watch?v=cp-H_6VODko)
 - Textures: [Textures.com](https://www.textures.com/)
-- Column and Hologram Models: [CGTrader](https://www.cgtrader.com/)
+- Column and upper Hologram Model: [CGTrader](https://www.cgtrader.com/)
 - Animations and Character Model: [Mixamo](https://www.mixamo.com/)
 - [Finite State Machines With Yuka And Three.js - A.I And WebGL Tutorial
 ](https://www.youtube.com/watch?v=JKoNDsl9jc8)
+- 3D texts and Down hologram part : [Blender](https://www.blender.org/)
 
 ## 📦 Dependencies
 
