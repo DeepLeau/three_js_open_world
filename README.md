@@ -51,7 +51,7 @@ This project implements a third-person 3D scene using [Three.js](https://threejs
 - Textures: [Textures.com](https://www.textures.com/)
 - Column and Hologram Models: [CGTrader](https://www.cgtrader.com/)
 - Animations and Character Model: [Mixamo](https://www.mixamo.com/)
-- Finite States Machine algorithm : [Finite State Machines With Yuka And Three.js - A.I And WebGL Tutorial
+- [Finite State Machines With Yuka And Three.js - A.I And WebGL Tutorial
 ](https://www.youtube.com/watch?v=JKoNDsl9jc8)
 
 ## 📦 Dependencies
