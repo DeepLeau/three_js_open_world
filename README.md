@@ -16,7 +16,7 @@ This project implements a third-person 3D scene using [Three.js](https://threejs
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/DeepLeau/three_js_open_world.git
    cd your-repository
    ```
 2. Install a local web server (e.g., `http-server`) to serve the project:
